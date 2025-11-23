@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic[email]
+pymongo
+google-generativeai
+sentence-transformers
+numpy
+sib-api-v3-sdk
+requests
+python-dotenv
+upstash-redis
+redis
+typing-extensions
+gunicorn
